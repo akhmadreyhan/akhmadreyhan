@@ -1,6 +1,6 @@
-![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/user-attachments/assets/72cd2da7-547b-4c83-9320-6ea3f52f6c14)
+<h2 align="center">![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/680f32d4-5d2a-4b6c-9ebf-3ef12a7324bf)<h2>
 
-<h1 align="left">AI/ML, Mobile Enjoyer 👋</h3>
+<h1 align="left"> ![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/3276718b-dca1-4fbf-a6ed-fafc4627bb30) AI/ML, Mobile Enjoyer 👋</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,4 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-![](https://github-readme-quotes-bay.vercel.app/quote?theme=onedark)
+![216654106-c24cc9c0-d319-404e-9bbc-402639637bd9](https://github.com/user-attachments/assets/012bd096-1af5-4762-9d05-27f76afad8fa) ![](https://github-readme-quotes-bay.vercel.app/quote?theme=onedark)
