@@ -1,4 +1,6 @@
-<h3 align="center">AI/ML, Mobile Enjoyer 👋</h3>
+![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/user-attachments/assets/72cd2da7-547b-4c83-9320-6ea3f52f6c14)
+
+<h1 align="left">AI/ML, Mobile Enjoyer 👋</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
