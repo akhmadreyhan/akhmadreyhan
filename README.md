@@ -1,6 +1,8 @@
-<h2 align="center"> ![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/3e84c9c4-61a9-474c-a8d0-52dbc7f9f6e8) <h2>
+<h2 align="center"> ![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/e2752c79-7574-44ad-8b5e-e926857dce39)
+ <h2>
 
-<h1 align="left"> ![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/d73f4ab3-9b35-495c-b152-ba2e0f20b65c) AI/ML, Mobile Enjoyer 👋</h3>
+<h1 align="left"> ![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/b79cb81f-036e-46b4-b2b4-f125ba6fee02)
+ AI/ML, Mobile Enjoyer 👋</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
